@@ -764,7 +764,6 @@ section {
 
 .hide {
     display: none;
-    opacity: 0;
 }
 
 .fade {
